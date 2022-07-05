@@ -163,7 +163,7 @@ a.project1 {
 }
 
 a.project2 {
-    background-image: url(./images/image1.jpg);
+    background-image: url(./images/fitstop.png);
 }
 
 a.password-generator {
@@ -195,7 +195,7 @@ a.weather-dashboard {
 }
 
 .work-topic h3, .work-topic p {
-    color: var(--primary-color);
+    color: #C2F0FC;
 }
 
 .work-topic h3 {
